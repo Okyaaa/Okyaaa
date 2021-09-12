@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Muhammad Oktavian Fajar Rojaby
-- 👀 I’m interested in Software Developer
+- 👀 I’m interested in Software Developer and UI/UX
 - 🌱 I’m currently learning at Informatics Engineering
-- 💞️ I’m looking to collaborate on Software Developer
+- 💞️ I’m looking to collaborate on Software Developer and UI/UX
